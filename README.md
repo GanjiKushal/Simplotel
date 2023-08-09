@@ -9,7 +9,7 @@ This project demonstrates the creation of a responsive webpage using HTML and CS
 - Responsive design achieved using only HTML and CSS.
 - Utilized media queries to ensure optimal display on various devices.
 - Simple and clean code structure for easy understanding and customization.
-
+-When screen size is minimized to <620px items in the nav bar will be hidden and in the rightcorner a icon is dispalyed, if you click on the icon you can see the nav items.
 
 
 ## Usage
